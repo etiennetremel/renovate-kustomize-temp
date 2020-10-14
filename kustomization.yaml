@@ -11,5 +11,5 @@ bases:
 resources:
   - git@github.com:kubernetes/kubernetes.git?ref=v1.18.0
   - https://gitlab.com/gitlab-org/gitlab-foss.git?ref=v13.4.2
-  - https://gitlab.com/gnachman/iterm2.git/somedir?ref=v3.3.8
+  - https://gitlab.com/gnachman/iterm2.git/somedir?ref=v3.3.11
 
