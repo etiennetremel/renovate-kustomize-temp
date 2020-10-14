@@ -3,7 +3,7 @@ kind: Kustomization
 
 # https://kubernetes-sigs.github.io/kustomize/api-reference/kustomization/resources/
 bases:
-  - git@github.com:moredhel/remote-kustomize.git?ref=v0.0.0
+  - git@github.com:moredhel/remote-kustomize.git?ref=v0.0.1
   - git@github.com:renovatebot/renovate.git/tools?ref=23.47.0
   - github.com/kubernetes-sigs/kustomize/examples/multibases?ref=v1.0.6
   - somedir/
